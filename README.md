@@ -19,7 +19,7 @@ It's a Spring boot based project using JPA, Hibernate
 
 2. Run tatsam_priority.sql from project to create tables
 
-3. User the basic auth with below crediantial
+3. Use the basic auth with the below credentials for API calls
     a). UserName: admin, Password: admin, Role: ADMIN
     b). UserName: user1, Password: user1, Role: USER
     c). UserName: user2, Password: user2, Role: USER
