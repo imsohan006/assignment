@@ -18,7 +18,14 @@ It's a Spring boot based project using JPA, Hibernate
 1. git clone https://github.com/imsohan006/assignment.git
 
 2. Run tatsam_priority.sql from project to create tables
-```
+
+3. User the basic auth with below crediantial
+    a). UserName: admin, Password: admin, Role: ADMIN
+    b). UserName: user1, Password: user1, Role: USER
+    c). UserName: user2, Password: user2, Role: USER
+    d). UserName: user3, Password: user3, Role: USER
+ ```
+
 
 ## Contributing
 
