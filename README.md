@@ -5,7 +5,7 @@ API developed to add priority, satisfaction for given areas with role-based basi
 ## Prerequisite Tools
 
 ```bash
-1. IDE like STS (for batter user experience)
+1. IDE like STS (for better user experience)
 2. Mysql
 ```
 
